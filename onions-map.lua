@@ -10,4 +10,5 @@ onions_map = {
 ["jabber.ipredator.se"] = "3iffdebkzzkpgipa.onion";
 ["cloak.dk"] = "m2dsl4banuimpm6c.onion";
 ["im.koderoot.net"] = "ihkw7qy3tok45dun.onion";
+["anonymitaet-im-inter.net"] = "rwf5skuv5vqzcdit.onion";
 };
