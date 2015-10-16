@@ -8,4 +8,5 @@ onions_map = {
 ["jabber.autistici.org"] = "wi7qkxyrdpu5cmvr.onion";
 ["jabber.ipredator.se"] = "3iffdebkzzkpgipa.onion";
 ["cloak.dk"] = "m2dsl4banuimpm6c.onion";
+["anonymitaet-im-inter.net"] = "rwf5skuv5vqzcdit.onion";
 };
