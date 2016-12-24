@@ -12,4 +12,5 @@ onions_map = {
 	["im.koderoot.net"] = "ihkw7qy3tok45dun.onion";
 	["anonymitaet-im-inter.net"] = "rwf5skuv5vqzcdit.onion";
 	["jabber.ccc.de"] = "okj7xc6j2szr2y75.onion";
+	["xndr.de"] = "trcubpttd6zkc3tf.onion";
 };
