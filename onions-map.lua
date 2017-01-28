@@ -30,4 +30,5 @@ onions_map = {
 	["wtfismyip.com"] = "ofkztxcohimx34la.onion";
 	["dukgo.com"] = "wlcpmruglhxp6quz.onion";
 	["patchcord.be"] = "xsydhi3dnbjuatpz.onion";
+	["jabber-germany.de"] = "dbbrphko5tqcpar3.onion";
 };
