@@ -1,5 +1,5 @@
 onions_map = {
-	["jabber.adb-centralen.se"] = "37x6i3wgr2jyublb.onion";
+	["adb-centralen.se"] = "37x6i3wgr2jyublb.onion";
 	["anonymitaet-im-inter.net"] = "rwf5skuv5vqzcdit.onion";
 	["autistici.org"] = "wi7qkxyrdpu5cmvr.onion";
 	["jabber.calyxinstitute.org"] = "ijeeynrc6x2uy5ob.onion";
@@ -16,6 +16,7 @@ onions_map = {
 	["kode.im"] = "ihkw7qy3tok45dun.onion";
 	["im.koderoot.net"] = "ihkw7qy3tok45dun.onion";
 	["jabber.lqdn.fr"] = "jabber63t4r2qi57.onion";
+	["nordberg.se"] = "37x6i3wgr2jyublb.onion";
 	["jabber.otr.im"] = "5rgdtlawqkcplz75.onion";
         ["otromundo.cf"] = "arauemwe2utqqzye.onion";
 	["patchcord.be"] = "xsydhi3dnbjuatpz.onion";
