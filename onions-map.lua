@@ -27,6 +27,7 @@ onions_map = {
 	["jabber.so36.net"] = "s4fgy24e2b5weqdb.onion";
 	["jabber.systemli.org"] = "x5tno6mwkncu5m3h.onion";
         ["taolo.ga"] = "l3ybpw4vs6ie5rv2.onion";
+	["tchncs.de"] = "duvfmyqmdlyvc3mi.onion";
 	["wtfismyip.com"] = "ofkztxcohimx34la.onion";
 	["prosody.xmpp.is"] = "y2qmqomqpszzryei.onion";
 	["xndr.de"] = "trcubpttd6zkc3tf.onion";
