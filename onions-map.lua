@@ -13,6 +13,7 @@ onions_map = {
 	["inventati.org"] = "wi7qkxyrdpu5cmvr.onion";
 	["jabber.ipredator.se"] = "3iffdebkzzkpgipa.onion";
 	["jabber-germany.de"] = "dbbrphko5tqcpar3.onion";
+	["joelpurra.se"] = "37x6i3wgr2jyublb.onion";
 	["kode.im"] = "ihkw7qy3tok45dun.onion";
 	["im.koderoot.net"] = "ihkw7qy3tok45dun.onion";
 	["jabber.lqdn.fr"] = "jabber63t4r2qi57.onion";
