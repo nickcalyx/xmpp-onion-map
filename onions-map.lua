@@ -35,4 +35,5 @@ onions_map = {
 	["wtfismyip.com"] = "ofkztxcohimx34la.onion";
 	["prosody.xmpp.is"] = "y2qmqomqpszzryei.onion";
 	["xndr.de"] = "trcubpttd6zkc3tf.onion";
+	["jabber.cat"] = "sybzodlxacch7st7.onion";
 };
