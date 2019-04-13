@@ -1,6 +1,7 @@
 onions_map = {
 	["5222.de"] = "jtovcabr2vhflcqg.onion";
-	["adb-centralen.se"] = "qai7jjjnhbrdiexf.onion";
+	["9999.se"] = "37x6i3wgr2jyublb.onion";
+	["adb-centralen.se"] = "37x6i3wgr2jyublb.onion";
 	["anonymitaet-im-inter.net"] = "rwf5skuv5vqzcdit.onion";
 	["autistici.org"] = "wi7qkxyrdpu5cmvr.onion";
 	["jabber.calyxinstitute.org"] = "ijeeynrc6x2uy5ob.onion";
